@@ -35,5 +35,12 @@ button{
     color: black;
     font-weight: bolder;
     text-align: center;
+    font-size: 45px;
+
 }
 
+#menu{
+    font-size:40px;
+    font-weight: bold;
+    text-align: center;
+}
