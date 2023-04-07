@@ -21,3 +21,8 @@ h1{
     text-align: center;
     text-decoration: underline double;
 }
+
+p{
+    font-size: large;
+    font-weight: bold;
+}
