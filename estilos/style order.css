@@ -3,3 +3,39 @@
     font-size: 16px;
 }
 
+body{
+    background-color: rgb(250, 146, 34);
+}
+
+main{
+    background-color:rgb(255, 213, 0);
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
+}
+
+h1{
+    font-size:50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    font-weight:bolder;
+    }
+
+.greeting{
+    text-align: center;
+}
+
+button{
+    background-color: orangered;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
