@@ -1,6 +1,6 @@
 # Projeto-Site
 
- **Big Bang Burger**
+ <h2> Big Bang Burger </h2>
 
  Website inspired by the Big Bang Burger from Persona 5.
 
