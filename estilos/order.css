@@ -38,6 +38,11 @@ button{
 
 }
 
+button:hover{
+    background-color: yellow;
+    color: orangered;
+}
+
 p{
     text-align: center;
 }

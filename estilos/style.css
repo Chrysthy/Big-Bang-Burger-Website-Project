@@ -35,6 +35,7 @@ button{
     font-weight: bolder;
     text-align: center;
     font-size: 45px;
+    
 
 }
 
@@ -42,4 +43,9 @@ button{
     font-size:40px;
     font-weight: bold;
     text-align: center;
+}
+
+button:hover{
+    background-color: blue;
+    color: white;
 }

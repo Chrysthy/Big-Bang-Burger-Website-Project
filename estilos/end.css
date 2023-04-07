@@ -26,3 +26,7 @@ p{
     font-size: large;
     font-weight: bold;
 }
+
+a:hover{
+    text-decoration: none;
+}
