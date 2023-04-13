@@ -9,3 +9,9 @@
 <br>
 
  <img src="https://pbs.twimg.com/media/FfemsSYXgAEhQi7.jpg" alt="Joker at Big Bang Burger">
+
+
+<br>
+<hr>
+<h2> Support </h2>
+<p> If you liked it, press the Star ⭐ Button, please! 😄 </p>
