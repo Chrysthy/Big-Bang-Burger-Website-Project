@@ -2,7 +2,7 @@
 
  <h2> Big Bang Burger </h2>
 
-<p>Website inspired by Okumura Foods - Big Bang Burger - from Persona 5. </p>
+Website inspired by Okumura Foods - Big Bang Burger - from [Persona 5.](https://www.atlus.com/persona5/home.html)
 
 [Click Here! - GitHub Pages](https://chrysthy.github.io/Projeto-Site/)
 
