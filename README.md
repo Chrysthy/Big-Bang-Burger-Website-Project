@@ -4,7 +4,7 @@
 
 Website inspired by Okumura Foods - Big Bang Burger - from [Persona 5.](https://www.atlus.com/persona5/home.html)
 
-[Click Here! - GitHub Pages](https://chrysthy.github.io/Projeto-Site/)
+[Click Here! - GitHub Pages](https://chrysthy.github.io/Website-Project/)
 
 <br>
 
