@@ -1,16 +1,37 @@
-h1{
-    font-size:50px;
+h1 {
+    font-size: 50px;
     font-weight: bold;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 3%;
+}
+
+.special-request {
+    margin-top: 3%;
+    margin-bottom: 2%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.request {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
     text-align: center;
 }
 
-h2{
-    font-weight:bolder;
-    font-size: 50px;
-    }
-
-.greeting{
-    text-align: center;
+.greeting {
+    align-items: center;
 }
 
 button {
@@ -23,16 +44,12 @@ button>a {
     font-weight: bold;
     font-size: 30px;
     border-radius: 3px;
-    
+
 
 }
 
-a:hover {
+.go:hover {
     background-color: #686868;
     color: white;
     cursor: pointer;
-}
-
-p{
-    text-align: center;
 }

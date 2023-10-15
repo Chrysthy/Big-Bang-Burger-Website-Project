@@ -1,19 +1,53 @@
-h1{
-    font-size:50px;
+h1 {
+    font-size: 50px;
     font-weight: bold;
     text-align: center;
     text-decoration: underline double;
+    margin-bottom: 5%;
 }
 
-p{
-    font-size: large;
+p {
+    font-size: 20px;
     font-weight: bold;
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    margin-top: 2%;
 }
 
-a:hover{
-    text-decoration: underline;
+.eating {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+
+    }
+
+.eating>img {
+    border-radius: 5px;
+    border: 1px solid #000;
+
 }
 
 a {
-    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0e0ef3;
+}
+
+.okumura-photo {
+    margin-top: 3%;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
 }
