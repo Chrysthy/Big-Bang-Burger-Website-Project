@@ -1,39 +1,58 @@
-h1{
-    font-size:50px;
+header {
+    text-align: center;
+}
+
+.logo {
+    margin-bottom: 20px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+
+.menu {
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
-    }
+    margin-top: 10px;
+    text-decoration: underline;
+}
 
-h2{
-    font-size:30px;
-    }
-
-header{
+h1 {
+    font-size: 50px;
+    font-weight: bold;
     text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-bottom: 30px;
 }
 
 ul>li {
-    list-style: none;
+    font-size: 20px;
 }
 
-button{
-    background-color: orangered;
-    color: black;
-    font-weight: bolder;
-    text-align: center;
-    font-size: 45px;
+
+button {
+    margin-top: 15px;
+}
+
+button>a {
+    background-color: rgb(253, 3, 3);
+    color: #000000;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 3px;
     
 
 }
 
-#menu{
-    font-size:40px;
-    font-weight: bold;
-    text-align: center;
-}
-
-button:hover{
-    background-color: blue;
+a:hover {
+    background-color: #686868;
     color: white;
     cursor: pointer;
 }

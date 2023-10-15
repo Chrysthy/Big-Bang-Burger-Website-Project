@@ -13,19 +13,24 @@ h2{
     text-align: center;
 }
 
-button{
-    background-color: orangered;
-    color: black;
-    font-weight: bolder;
-    text-align: center;
+button {
+    margin-top: 15px;
+}
+
+button>a {
+    background-color: rgb(253, 3, 3);
+    color: #000000;
+    font-weight: bold;
     font-size: 30px;
-    cursor: pointer;
+    border-radius: 3px;
+    
 
 }
 
-button:hover{
-    background-color: yellow;
-    color: orangered;
+a:hover {
+    background-color: #686868;
+    color: white;
+    cursor: pointer;
 }
 
 p{
