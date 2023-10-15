@@ -4,11 +4,11 @@
 
 Website inspired by Okumura Foods - Big Bang Burger - from [Persona 5.](https://www.atlus.com/persona5/home.html)
 
-[Click Here! - GitHub Pages](https://chrysthy.github.io/Website-Project/)
+[Click Here! - GitHub Pages](https://chrysthy.github.io/Big-Bang-Burger-Website-Project/)
 
 <br>
 
- <img src="https://pbs.twimg.com/media/FfemsSYXgAEhQi7.jpg" alt="Joker at Big Bang Burger">
+ <p> <img align="center" src="https://pbs.twimg.com/media/FfemsSYXgAEhQi7.jpg" alt="Joker at Big Bang Burger"> </p>
 
 <br>
 <hr>
