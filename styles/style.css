@@ -36,21 +36,19 @@ ul>li {
     font-size: 20px;
 }
 
-
-button {
+.next {
     margin-top: 15px;
-}
+    padding: 5px 10px;
 
-button>a {
-    background-color: rgb(253, 3, 3);
+    background-color: #9d9d9d;
     color: #000000;
     font-weight: bold;
     font-size: 30px;
     border-radius: 3px;
 }
 
-a:hover {
-    background-color: #686868;
+.next:hover {
     color: white;
     cursor: pointer;
+
 }

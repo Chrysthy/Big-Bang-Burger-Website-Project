@@ -26,7 +26,7 @@ h2 {
     align-items: center;
 }
 
-p{
+p {
     text-align: center;
 }
 
@@ -34,22 +34,19 @@ p{
     align-items: center;
 }
 
-button {
+.go {
     margin-top: 15px;
-}
+    padding: 5px 10px;
 
-button>a {
-    background-color: rgb(253, 3, 3);
+    background-color: #9d9d9d;
     color: #000000;
     font-weight: bold;
     font-size: 30px;
     border-radius: 3px;
-
-
 }
 
 .go:hover {
-    background-color: #686868;
     color: white;
     cursor: pointer;
+    
 }

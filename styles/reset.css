@@ -10,13 +10,17 @@
 
 body {
     background: rgb(2, 0, 36);
-    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(181, 181, 171, 1) 51%, rgba(181, 181, 171, 1) 99%);
+    background: url(https://steamuserimages-a.akamaihd.net/ugc/920291799814489862/00570B8E78DB29298BF1094009A9EEA41B320A23/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
 }
 
 main {
-    background-color: #ffffff;
+    background-color: #fffafa;
     width: 800px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px #000000;
+}
+
+a {
+    color: #000000;
 }
