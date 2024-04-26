@@ -6,8 +6,8 @@ header {
     margin-bottom: 20px;
     border: 1px solid #000;
     border-radius: 3px;
-    height: 280;
-    width: 280;
+    height: 280px;
+    width: 280px;
 }
 
 .menu {
@@ -38,6 +38,15 @@ ul {
 ul>li {
     font-size: 20px;
 }
+
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    justify-items: center;
+
+}
+
 
 .next {
     margin-top: 15px;

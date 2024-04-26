@@ -10,7 +10,7 @@
 
 body {
     background: rgb(2, 0, 36);
-    background: url(https://steamuserimages-a.akamaihd.net/ugc/920291799814489862/00570B8E78DB29298BF1094009A9EEA41B320A23/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+    background: url(../img/sky-persona5.jpg);
 }
 
 main {
@@ -24,4 +24,3 @@ main {
 a {
     color: #000000;
 }
-
