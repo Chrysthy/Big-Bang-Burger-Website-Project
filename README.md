@@ -1,14 +1,43 @@
-# Website Project
 
- <h2> Big Bang Burger </h2>
+<h1 align="center"> Big Bang Burger Website Project </h1> 
 
-Website inspired by Okumura Foods - Big Bang Burger - from [Persona 5.](https://www.atlus.com/persona5/home.html)
+<p align="center">Website inspired by Okumura Foods - Big Bang Burger - from <a href="https://www.atlus.com/persona5/home.html">Persona 5 </a>
 
-[Click Here! - GitHub Pages](https://chrysthy.github.io/Big-Bang-Burger-Website-Project/)
+<p align="center">  
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>  
+</p>
 
-<br>
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
+</p>
 
- <p align="center"> <img src="img/joker-eating.PNG" alt="Joker at Big Bang Burger"> </p>
+<p align="center">
+  <img alt="Joker at Big Bang Burger" src="./img/joker-eating.PN" width="30%">
+</p>
+
+
+## 🛠 Technologies
+
+- HTML e CSS
+- Git e GitHub
+
+
+## ✨ Features
+
+- Menu with checkbox;
+- Page Integration
+
+## 💻 Project
+
+- The website was created to practice HTML and CSS.
+
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
 
 <br>
 <hr>
