@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img alt="Joker at Big Bang Burger" src="./img/joker-eating.PN" width="30%">
+  <img alt="Joker at Big Bang Burger" src="./img/joker-eating.PNG" width="30%">
 </p>
 
 
