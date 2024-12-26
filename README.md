@@ -13,6 +13,8 @@
   <a href="#-license">License</a>  
 </p>
 
+<br>
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
@@ -33,15 +35,20 @@
 - HTML e CSS
 - Git e GitHub
 
+<br>
 
 ## ✨ Features
 
 - Menu with checkbox;
 - Page Integration
+  
+<br>
 
 ## 💻 Project
 
 - The website was created to practice HTML and CSS.
+
+<br>
 
 ## 📜 License
 
