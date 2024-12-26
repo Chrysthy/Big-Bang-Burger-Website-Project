@@ -1,6 +1,8 @@
 
 <h1 align="center"> Big Bang Burger Website Project </h1> 
 
+<br>
+
 <p align="center">Website inspired by Okumura Foods - Big Bang Burger - from <a href="https://www.atlus.com/persona5/home.html">Persona 5 </a>
 
 <p align="center">  
@@ -15,9 +17,15 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
 
+## 📸 Screenshots
+
+<br>
+
 <p align="center">
   <img alt="Joker at Big Bang Burger" src="./img/joker-eating.PNG" width="55%">
 </p>
+
+<br>
 
 
 ## 🛠 Technologies
